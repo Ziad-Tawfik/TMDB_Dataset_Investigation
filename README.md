@@ -12,7 +12,7 @@ You will need an installation of Python, plus the following libraries:
 * pandas
 * NumPy
 * Matplotlib
-* csv
+* seaborn
 
 ## Why this Project?
 In this project, you'll go through the data analysis process and see how everything fits together. Later Nanodegree projects will focus on individual pieces of the data analysis process.
